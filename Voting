@@ -47,11 +47,3 @@ while(True):
             print()
 
 
-
-
-# a=input()
-# if(a.isdigit()):
-#     a=int(a)
-#     print(a+10)
-# else:
-#     print("ff")
